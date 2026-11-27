@@ -1,0 +1,24 @@
+# 项目：WhalesBot 工作内容
+
+最后更新：2026-11-27
+
+## 目标
+
+产品视频、Shorts、赛事宣传和 YouTube 官方频道运营；文案规范见 [[knowledge/whalesbot-copy-rules.md]]。
+
+## 现状（已确认）
+
+- 官方频道 WhalesBot（@whalesbot），约 1,140 订阅、499 个视频（2026-11-26 vidIQ 核实快照）。
+- Mentix 视频定于 2026-11-28 发布（截至 2026-11-26 还在上传中，YouTube Checks 未跑完）。
+- 近期重要拍摄：科技馆/展厅大型参观活动（研学类），以 9:16 竖屏为主，内容很重要，需要多拍细节镜头。
+- 竞品观察对象：LEGO Education、Sphero 等，观察结论沉淀到 `knowledge/`。
+
+## 下一步
+
+- [ ] Mentix 视频发布后看首轮数据，记到 tasks/ 笔记
+- [ ] 参观活动拍摄按「动作清单先行」准备分镜
+
+## 规则提醒
+
+- vidIQ 按 credits 收费的分析：先报价，Cai 批准再跑。
+- YouTube 频道数据看板只在 Cai 要求时手动刷新，不自动更新。

@@ -1,0 +1,9 @@
+# 安全：以下内容永远不要提交到仓库
+*.env
+*.key
+*.pem
+credentials*
+*secret*
+*password*
+.DS_Store
+*.muse-github-snapshot-sync.json
