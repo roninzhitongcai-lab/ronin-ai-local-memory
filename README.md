@@ -29,7 +29,7 @@ ai-personal-memory/
 
 ### 怎么用
 
-1. **换 AI 时**：把仓库链接（或 clone 下来的文件夹）给新 AI，让它按顺序读 `USER.md → SOUL.md → AGENTS.md → 对应 projects/*.md`。
+1. **换 AI 时**：把仓库链接（或 clone 下来的文件夹）给新 AI，让它先读 `HANDOVER.md`（里面有现成的交接话术和接手流程），再按顺序读 `USER.md → SOUL.md → AGENTS.md → 对应 projects/*.md`。
 2. **换电脑时**：`git clone` 这个私有仓库即可，全部记忆都在里面。
 3. **日常**：任务做完让 AI 更新 `tasks/` 笔记并 push；新规则让 AI 追加进 `SOUL.md` 并留变更记录。
 4. **安全**：仓库保持 Private。银行卡、密码、API 密钥、验证码永远不要往这里放——需要保管的密钥用密码管理器，不要用 Git 仓库。
