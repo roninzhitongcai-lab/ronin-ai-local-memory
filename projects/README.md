@@ -6,3 +6,4 @@
 - [fat-loss.md](fat-loss.md) — 减脂
 - [budget.md](budget.md) — 预算与存钱（只记口径和习惯，不记具体金额）
 - [self-study.md](self-study.md) — 自考
+- [personal-memory.md](personal-memory.md) — Ronin 本地数据库与共享账号使用方式

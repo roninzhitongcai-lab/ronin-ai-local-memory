@@ -3,11 +3,13 @@
 > 换 AI / 换电脑时先读这份。Cai 把这个仓库交给你，就是让你直接接上他的背景和项目进度，不用他重新自我介绍。
 > 仓库：roninzhitongcai-lab/ronin-ai-local-memory（私有，「AI 个人记忆库」）
 
+共享账号先核对当前使用者的显式声明。新对话或更换使用者后重新声明；未声明时不打开个人文件或数据库。
+
 ## 给 Cai 的用法（30 秒版）
 
 把下面这段话原样发给新 AI 即可：
 
-> 这是我的个人记忆库：https://github.com/roninzhitongcai-lab/ronin-ai-local-memory
+> 我是 Ronin，本次只使用我的个人记忆库：https://github.com/roninzhitongcai-lab/ronin-ai-local-memory
 > 先读 HANDOVER.md，再按里面的顺序读其他文件，然后按规则和我协作。
 > 如果打不开这个私有仓库，告诉我，我会把仓库下载成 ZIP 或把文件直接发你。
 
